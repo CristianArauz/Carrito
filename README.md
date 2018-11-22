@@ -1,5 +1,6 @@
-# Carrito
+# funcion con vectores
 author Cristian arauz
+
 carrito
 #include<stdio.h>
 main()
